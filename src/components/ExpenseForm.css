@@ -1,0 +1,27 @@
+/* ExpenseForm.css */
+
+.expense-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.expense-form input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.animated-button {
+    background-color: #6200ea;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: transform 0.2s ease-in-out;
+}
+
+.animated-button:hover {
+    transform: scale(1.05);
+}
