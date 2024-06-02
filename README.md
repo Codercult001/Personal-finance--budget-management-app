@@ -15,6 +15,7 @@
 - Usage 📝 [Sign Up: Create a new account. Login: Log in with your credentials. Explore: Use the dashboard to manage your budgets and view insights.](Sign Up: Create a new account. Login: Log in with your credentials. Explore: Use the dashboard to manage your budgets and view insights.)
 
 - License 📄 **This project is licensed under the MIT License**
+### Youtube video link - https://youtu.be/Ox1-_odiMWQ
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
